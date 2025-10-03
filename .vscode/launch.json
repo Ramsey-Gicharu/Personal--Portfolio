@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
-            "file": "c:\\Users\\hp\\Downloads\\portfoliobywebcogvid\\portfoliobywebcogvid\\index.html"
+            "file": "c:\\Users\\hp\\Downloads\\portfoliobywebcogvid\\index.html"
         }
     ]
 }
